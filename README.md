@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, I'm Kajal Vavadiya
 
-<!--
-**kajalvavdiya524/kajalvavdiya524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Laravel | React | Vue | Node.js
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm a passionate Full Stack Developer with a strong background in building dynamic and responsive web applications. My expertise lies in combining the best of Laravel, React, Vue, and Node.js to create scalable and efficient solutions.
+
+I believe in writing clean, maintainable, and well-documented code. My goal is to build applications that not only meet the requirements but also exceed user expectations in terms of performance, usability, and design.
+
+---
+
+### 💼 Skills & Technologies
+
+- **Backend:** Laravel, Node.js, Express.js
+- **Frontend:** React.js, Vue.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS, Next.js
+- **Database:** MySQL, PostgreSQL, MongoDB
+- **Version Control:** Git, GitHub, Bitbucket
