@@ -14,10 +14,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalvavdiya524&layout=compact&theme=tokyonight&hide_title=true&hide_border=true&langs_count=8" style="width: 400px;" alt="Kajal's GitHub stats" />
-
----
-
 ### 📧 Contact Me Directly
 
 If you prefer direct communication, feel free to email me at: [kajal.vavdiya524@gmail.com](mailto:kajal.vavdiya524@gmail.com)
