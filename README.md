@@ -3,7 +3,7 @@
 - I'm a passionate Full Stack Developer with a strong background in building dynamic and responsive web applications. My expertise lies in combining the best of Laravel, React, Vue, and Node.js to create scalable and efficient solutions.
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=kajalvavdiya524&theme=tokyonight&no-frame=true&row=1&column=5" style="width: 80%;" alt="Github Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=kajalvavdiya524&theme=tokyonight&no-frame=true&row=1&column=6" style="width: 100%%;" alt="Github Trophy" />
 
 ##### 💼 Skills & Technologies
 
